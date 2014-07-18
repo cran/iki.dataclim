@@ -1,0 +1,17 @@
+exportPattern("^[[:alpha:]]+")
+exportMethods(
+    "show",
+    "summary",
+    "evalHomogeneity",
+    "plotWalterLieth"
+)
+exportClasses(
+    "dataclim",
+    "zoo" 
+)
+
+import(methods)
+import(zoo)
+import(lubridate)
+import(climdex.pcic)
+import(PCICt)

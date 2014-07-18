@@ -1,0 +1,16 @@
+02275d607805797c0cb616a8e2a38cc4 *DESCRIPTION
+7b01831ce3f585f825368054527d1695 *NAMESPACE
+d36ea3a056b0e180c9869562cd4a50a3 *R/iki_dataclim_01.R
+1929e6fe8dc7b1c48737d0002e5719e4 *data/potsdam.csv.gz
+63f56586b1404346da699dd17b7b70f7 *man/computeClimdex.Rd
+800ddc1671d4d4185b302217d6eef93e *man/createClimdex.Rd
+5f9f518df79cc8d2c32662c09f241bff *man/createDataclim.Rd
+c140ad48a3728972f9121d40a50c8a0c *man/dataclim-class.Rd
+c444bfd90d2644ecf4584c8ea82e2db0 *man/evalHomogeneity-methods.Rd
+f4af7e4c6033c5a70ab66d69a4240ce1 *man/evalHomogeneity.Rd
+93bcb9a13df83842c9f6d87ae5faa782 *man/homogeneityTests.Rd
+20e97d535036734612c81f440cdd9643 *man/iki.dataclim-package.Rd
+0abc438e86c224d1d5ca3f261f2d8ade *man/plotWalterLieth-methods.Rd
+2f354a6aba6c4af27cfa4ca5a4e64a76 *man/plotWalterLieth.Rd
+0336fc369817d470d12f17ccebb3ff58 *man/potsdam.Rd
+2734a52cda4c246763bbdc6d8203f569 *man/zoo-class.Rd
